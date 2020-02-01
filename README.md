@@ -1,2 +1,2 @@
-# Landing-Page-MorningBullets-JeffClark
+# MorningBullets-JeffClark
 Landing Page HTML/CSS
